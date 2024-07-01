@@ -1,0 +1,1 @@
+# Spatial-predictors-of-human-black-bear-interactions
