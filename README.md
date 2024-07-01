@@ -8,7 +8,7 @@
 
 ## The shapefile found in the NS_house_dense.zip folder was used to determine the housing density at event locations. This shapefile was based on Access Nova Scotia's online property identification system https://novascotia.ca/sns/access/land.asp and was gathered in March 2020.
 
-## The shapefile found in the NS_agriculture.zip folder is based on the 2010 Agricultural Land Identification Project. https://www.novascotia.ca/agri/documents/business-research/AL1000%20Nova%20Scotia.pdf and was last updated in March 2019. 
+## The geo database found in the NS_ALIP_2019.zip folder is based on the 2010 Agricultural Land Identification Project. https://www.novascotia.ca/agri/documents/business-research/AL1000%20Nova%20Scotia.pdf and was last updated in March 2019. 
 
 ## All other varibales used in modelling came from the Nova Scotia Geodata website https://nsgi.novascotia.ca/gdd/
 ### Distances from an event to the nearest road was calculated based on the Nova Scotia Topographic Database - Roads, Trails and Rails layer, with only the road data used 
