@@ -1,4 +1,4 @@
-# Data modelled in "Spatial predictors of human-black bear (Ursus americanus) interactions in Nova Scotia, Canada" 
+# Data using in "Spatial predictors of human-black bear (Ursus americanus) interactions in Nova Scotia, Canada" 
 ## By: Jason I. Airst and Tricia B. Fleming
 
 ## All the data collect from Nova Scotia's Biodiversity Investigation Reporting system can be found in the following files:
