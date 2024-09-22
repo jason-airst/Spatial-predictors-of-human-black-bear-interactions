@@ -11,6 +11,7 @@
 ## The geo-database found in the NS_ALIP_2019.zip folder is based on the 2010 Agricultural Land Identification Project. https://www.novascotia.ca/agri/documents/business-research/AL1000%20Nova%20Scotia.pdf and was last updated in March 2019. 
 
 ## the shapefiles used to generate the provincial forest inventory can  be  accessed from the Nova Scotia Forest Inventory website https://novascotia.ca/natr/forestry/gis/forest-inventory.asp. This provides a shapefile for each county. A geo-database that covers the entire province can be found on the Nova Scotia Geodata website https://nsgi.novascotia.ca/gdd/ but be caution against using this data set as it does not process properly without removing several erronious data records.
+
 ### Both Distances to forests and forest edge within 1 km were calculated based on this Forest Inventory. 
 
 ## The road and surface water feature layer used in modelling came from the Nova Scotia Geodata website https://nsgi.novascotia.ca/gdd/
