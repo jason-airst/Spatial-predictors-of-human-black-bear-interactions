@@ -9,7 +9,7 @@ library(spatialEco)
 
 
 #### set working directory
-setwd("D:/Bear_data")
+setwd("") # your directory
 
 #### Data from Biodiversity Investigation Reporting system ####
 Random_locations <- read.csv("Random_locations.csv")
